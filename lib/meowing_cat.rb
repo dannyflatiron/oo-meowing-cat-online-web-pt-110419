@@ -2,4 +2,4 @@ class Cat
 
 end
 
-cat = Cat.new
+maru = Cat.new

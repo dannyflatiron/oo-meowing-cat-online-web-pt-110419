@@ -4,9 +4,8 @@ class Cat
   def meow
     puts "meow!"
   end
-  
+
 end
 
 maru = Cat.new
 maru.name = "maru"
-maru.meow = "meow!"
